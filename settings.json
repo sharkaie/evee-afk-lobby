@@ -10,10 +10,10 @@
         "version": "1.17.1"
     },
     "position": {
-        "enabled": false,
-        "x": 0,
-        "y": 0,
-        "z": 0
+        "enabled": true,
+        "x": -178,
+        "y": 26,
+        "z": 772
     },
     "utils": {
         "auto-auth": {
