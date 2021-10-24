@@ -22,7 +22,7 @@
         },
         "anti-afk": {
             "enabled": true,
-            "sneak": false
+            "sneak": true
         },
         "chat-messages": {
             "enabled": false,
@@ -30,9 +30,8 @@
             "repeat-delay": 60,
             "messages": [
                 "I'm a regular player ",
-                "My owner is urFate_ ",
-                "I want be alone ",
-                "Visit my GitHub page! (urFate/Afk-Bot)"
+                "EVEE NETWORK",
+                "I want be alone "
             ]
         },
         "chat-log": true,
