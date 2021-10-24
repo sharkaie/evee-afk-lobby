@@ -21,7 +21,7 @@
             "password": "12345678"
         },
         "anti-afk": {
-            "enabled": false,
+            "enabled": true,
             "sneak": false
         },
         "chat-messages": {
@@ -36,6 +36,6 @@
             ]
         },
         "chat-log": true,
-        "auto-reconnect": false
+        "auto-reconnect": true
     }
 }
